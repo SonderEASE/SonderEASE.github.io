@@ -40,6 +40,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -64,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578056955412</updated>
       <workItem from="1578056961831" duration="97000" />
-      <workItem from="1578057223340" duration="1074000" />
+      <workItem from="1578057223340" duration="1749000" />
     </task>
     <servers />
   </component>
